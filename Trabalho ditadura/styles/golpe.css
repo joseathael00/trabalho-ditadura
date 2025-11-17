@@ -1,0 +1,40 @@
+.caixaTexto {
+  display: flex;
+  color: white;
+}
+
+.secti {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#golpe {
+  background-image: url(../assets/background/golpe.jpg);
+}
+#casteloBranco {
+  background-image: url(../assets/background/govbranco.webp);
+}
+#costaSilva {
+  background-image: url(../assets/background/govsila.jpeg);
+}
+#medici {
+  background-image: url(../assets/background/medici.webp);
+}
+#geisel {
+  background-image: url(../assets/background/ernesto-geisel.webp);
+}
+#joao {
+  background-image: url(../assets/background/jao.jpg);
+}
+#posDitadura {
+  background-image: url(../assets/background/governo-jose-sarney.webp);
+}
+#outros {
+  background-image: url(../assets/background/image-1-1024x490.webp);
+}
